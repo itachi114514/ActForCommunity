@@ -40,7 +40,7 @@ body {
 .transparent-section {
     height: 600px; /* 设置高度 */
     background: rgba(255, 255, 255, 0.7);
-    background-image: url('p2.jpg');
+    background-image: url('p9.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -162,6 +162,12 @@ body {
 
 .navbar-bottom .nav-link:hover {
     color: #ffc107;
+}
+.text-container {
+    background: rgba(255, 255, 255, 0.7);
+    padding: 2px 5px;
+    border-radius: 3px;
+    max-width: 250px;
 }
 body::after {
     content: '';
