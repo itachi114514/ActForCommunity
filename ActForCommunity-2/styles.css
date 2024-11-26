@@ -132,7 +132,7 @@ body {
 }
 
 .navbar-top {
-  z-index: -1;
+  z-index: 1;
 }
 
 .navbar-top .nav-link {
@@ -149,6 +149,7 @@ body {
 .navbar-bottom {
   background-color: #343a40;
   padding: 15px 0;
+  z-index: 1;
 }
 
 .navbar-bottom .nav-link {
