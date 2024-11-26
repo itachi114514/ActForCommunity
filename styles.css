@@ -38,7 +38,7 @@ body {
 }
 
 .transparent-section {
-    height: 300px; /* 设置高度 */
+    height: 600px; /* 设置高度 */
     background: rgba(255, 255, 255, 0.7);
     background-image: url('p2.jpg');
     background-size: cover;
@@ -129,11 +129,11 @@ body {
     right: 50px;
     border-radius: 50px;
     font-family: 'Amaranth', sans-serif;
-    z-index: 2;
+    z-index: 3;
 }
 
 .navbar-top{
-    z-index: -1;
+    z-index: 2;
 }
 
 .navbar-top .nav-link {
@@ -150,6 +150,7 @@ body {
 .navbar-bottom {
     background-color: #343a40;
     padding: 15px 0;
+    z-index: 2;
 }
 
 .navbar-bottom .nav-link {
