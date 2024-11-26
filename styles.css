@@ -15,7 +15,7 @@ body {
     font-family: 'Amaranth', sans-serif;
     font-size: 3rem;
     font-weight: 700;
-    color: #343a40;
+    color: #2401FB;
     text-align: center;
     margin-top: 70px;
 }
@@ -32,7 +32,7 @@ body {
 .text-under-picture {
     font-family: 'Amaranth', sans-serif;
     font-size: 1.5rem;
-    color: #343a40;
+    color: #385EE7;
     text-align: center;
     margin-top: 20px;
 }
@@ -40,7 +40,7 @@ body {
 .transparent-section {
     height: 300px; /* 设置高度 */
     background: rgba(255, 255, 255, 0.7);
-    background-image: url('image.jpg');
+    background-image: url('p2.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -92,11 +92,11 @@ body {
 }
 
 .background {
-    background-image: url('image.jpg');
+    background-image: url('p4.jpg');
     background-size: cover;
     background-position: center;
     /*background-attachment: fixed;*/
-    color: #333;
+    color: #2401FB;
     display: flex;
     justify-content: center;
     align-items: center;
